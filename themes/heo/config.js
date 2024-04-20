@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://blog.lightslord.top',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/推荐' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/精选' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/教程' },
 
