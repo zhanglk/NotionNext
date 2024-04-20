@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.lightslord.top' },
-    { title: '访问文档中心获取更多乐趣', url: 'http://book.lightslord.top' }
+    { title: '访问文档中心获取更多乐趣', url: 'http://book.lightslord.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'lightslord.top',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://blog.lightslord.com',
+  HEO_HERO_TITLE_5: '个人博客全新展现！！',
+  HEO_HERO_TITLE_LINK: 'https://blog.lightslord.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/精选' },
